@@ -84,7 +84,7 @@ The dataset consists of 1 main table `bnb_data` with the following fields:
 
 1. **Short-term traders** should take advantage of volatility spikes, as these often signal strong movement in either direction. The strategy should involve tighter stop-loss orders during high volatility periods (e.g., March 2021).
   
-2. **Long-term investors** should look for periods where the 30-day moving average crosses above the 7-day moving average, signaling longer-term growth trends.
+2. **Long-term investors** should look for periods where the 7-day moving average crosses above the 30-day moving average, signaling a potential uptrend and longer-term growth opportunity. Conversely, when the 7-day moving average falls below the 30-day moving average, it typically signals a downtrend, where caution may be warranted for short-term positions.
   
 3. **Trading volumes** provide useful insights into market sentiment—high volume preceding price increases should be monitored closely for entry points.
 
