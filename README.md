@@ -15,7 +15,7 @@ This project examines historical Binance Coin data, applying SQL for data extrac
 - **Category 3: Volume vs Price Correlation**
 - **Category 4: Recommendations for Risk Management**
 
-The SQL queries used to inspect and clean the data for this analysis can be found below here: [SQL Queries](https://github.com/calebchiajg/Binance-Coin-BNB-Price-and-Volatility-Analysis/edit/main/README.md#sql-queries).
+The SQL queries used to inspect and clean the data for this analysis can be found below here: [SQL Queries](bhttps://github.com/calebchiajg/Binance-Coin-BNB-Price-and-Volatility-Analysis?tab=readme-ov-file#sql-queries).
 
 The interactive Tableau dashboard used to report and explore the trends can be found here: [Tableau Dashboard](https://public.tableau.com/app/profile/jin.guo.chia/viz/BNBProject/Dashboard1).
 
