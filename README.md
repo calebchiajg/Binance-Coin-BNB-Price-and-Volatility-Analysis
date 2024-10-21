@@ -59,7 +59,7 @@ The dataset consists of 1 main table `bnb_data` with the following fields:
 - **Insight 2**: Price corrections in Q3 and Q4 of 2021 followed these rapid increases, where Binance Coin lost nearly 40% of its peak value.
   - **Quantitative Values**: Price dropped from ~$650 in May 2021 to ~$360 by December 2021.
 
-![Line chart with moving averages](#)
+![Line chart with moving averages](Price_with_MA.png)
 
 ### Category 2: Volatility Analysis
 - **Insight 1**: The highest volatility occurred during March 2021, with price swings of up to $100 within a single day.
@@ -68,7 +68,7 @@ The dataset consists of 1 main table `bnb_data` with the following fields:
 - **Insight 2**: Volatility consistently decreased after May 2021, stabilizing as Binance Coin entered a less volatile market.
   - **Quantitative Values**: By Q4 2021, daily volatility averaged only $30.
 
-![Heatmap of volatility](#)
+![Heatmap of volatility](Heatmap.png)
 
 ### Category 3: Volume vs Price Correlation
 - **Insight 1**: A positive correlation between volume and price was observed, particularly during periods of high trading activity.
@@ -76,7 +76,7 @@ The dataset consists of 1 main table `bnb_data` with the following fields:
   
 - **Insight 2**: During price corrections, there was a sharp decrease in volume, further emphasizing the relationship between price declines and reduced trading interest.
 
-![Scatter plot showing volume vs price](#)
+![Scatter plot showing volume vs price](Volume_VS_Closing.png)
 
 ---
 
